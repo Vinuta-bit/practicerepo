@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 modifing 2nd time f2 
+=======
+<<<<<<< HEAD
+this is modifiaction of b3 f2
+=======
+modifed after conflict
+>>>>>>> branch2
+>>>>>>> branch3

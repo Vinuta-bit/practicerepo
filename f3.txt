@@ -1,1 +1,5 @@
-modifying f3 2nd time
+<<<<<<< HEAD
+modifying f3 2nd time doing after conflict
+=======
+thix is modification of b3 f3
+>>>>>>> branch3
