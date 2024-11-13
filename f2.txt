@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is modifiaction of b3 f2
+=======
+modifed after conflict
+>>>>>>> branch2
