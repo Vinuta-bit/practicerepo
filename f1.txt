@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 modifing 2nd time f1.txt
-=======
 this is vinuta
->>>>>>> branch3
+branch3
+im using fetch command
